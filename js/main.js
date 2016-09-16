@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#fullpage').fullpage({
-	    scrollingSpeed: 2000
+	    scrollingSpeed: 1300
 	});
 });
 
