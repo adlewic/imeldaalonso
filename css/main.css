@@ -28,7 +28,6 @@ h2{
 
 
 
-
 @font-face {
     font-family: "AauxPro-Medium";
     src: url("../fonts/AauxPro-Medium.ttf");
@@ -64,7 +63,7 @@ h3{
  .line{
  	border-right: 1px solid #ededed;
  	width: 20%;
- 	height:2100px;
+ 	height:100%;
  	list-style-type: none;
  	float: left;
  }
